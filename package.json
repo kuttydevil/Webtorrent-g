@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "@latest",
-    "react-dom": "@latest",
-    "react-scripts": "@latest",
-    "webtorrent": "@latest"
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "webtorrent": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
